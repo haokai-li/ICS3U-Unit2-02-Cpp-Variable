@@ -2,7 +2,7 @@
 //
 // Created by: Haokai
 // Created on: Sept 2021
-// This is the "circle" program, with proper style
+// This is the "variable" program, with proper style
 
 #include <iostream>
 int length;
@@ -11,7 +11,7 @@ int area;
 int perimeter;
 
 int main() {
-  // This function calculate the area and perimeter of circle
+  // This function calculate the area and perimeter with variable
 
   // input
   std::cout << "enter length of the rectangle(mm): " << std::endl;
